@@ -130,7 +130,7 @@ flowchart LR
     DOC --> DB
     DOC --> V[(Chroma)]
     RAG --> V
-    RAG --> E[Hugging Face Embeddings]
+    RAG --> E[Embeddings]
     RAG --> L[Google Gemini]
 ```
 
