@@ -638,10 +638,9 @@ Without a license, all rights remain reserved by default.
 
 ## Author
 
-**Fakher Faroooq**
+**Anjum Zahid**
 
-- GitHub: `@fakherfaroooq`
-- Email: `fakherfaroooq@gmail.com`
+- GitHub: `@anjumzahid`
 
 ---
 
