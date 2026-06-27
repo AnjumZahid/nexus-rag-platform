@@ -1,5 +1,4 @@
-﻿# nexus-rag-platform
-# Knowledge Chat
+﻿# Knowledge Chat
 
 > A secure, multi-tenant Retrieval-Augmented Generation platform for private document intelligence.
 
