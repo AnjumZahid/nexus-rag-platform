@@ -34,6 +34,29 @@ It is suitable as a foundation for internal knowledge assistants, enterprise sea
 
 ---
 
+## Screenshots
+
+### Login Page
+
+<img width="1916" height="922" alt="1" src="https://github.com/user-attachments/assets/e6d9343a-4a31-4e42-bf27-1b6c74b6c01b" />
+
+
+### Chat Interface
+
+<img width="1920" height="922" alt="2" src="https://github.com/user-attachments/assets/02ac4711-f76a-4736-9c24-54c71eea23c3" />
+
+
+### Document Management
+
+<img width="1920" height="920" alt="3" src="https://github.com/user-attachments/assets/ddf131b7-eea2-4ef2-bb79-0d87053a386d" />
+
+
+### Team Management
+
+<img width="1920" height="923" alt="4" src="https://github.com/user-attachments/assets/1d144fca-26db-4405-95f7-47ef7a32e0d3" />
+
+---
+
 ## Product Highlights
 
 ### AI and RAG
